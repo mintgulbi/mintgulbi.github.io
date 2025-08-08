@@ -19,7 +19,7 @@ $$\begin{equation}
 \end{equation}$$
 
 
-위의 \eqref{eq:first} 를 참고하세요.
+위의 \eqref{first} 를 참고하세요.
 
 ```mermaid
   graph TD;
