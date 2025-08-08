@@ -17,8 +17,8 @@ $$
 \begin{equation}
 1+x=y
 \label{eq:xy}
-\end{equation
-}$$
+\end{equation}
+$$
 
 위의 공식은 \eqref{xy} 입니다.
 
@@ -26,8 +26,8 @@ $$
 \begin{equation}
 1+y=x
 \label{eq:yx}
-\end{equation
-}$$
+\end{equation}
+$$
 
 위의 공식은 \eqref{yx} 입니다.
 
