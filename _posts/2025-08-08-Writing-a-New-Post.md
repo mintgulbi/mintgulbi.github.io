@@ -15,14 +15,14 @@ How to write a new post,
 
 $$\begin{equation}
 1+x = y
-\label{eq:label_name}
+\label{123}
 \end{equation}$$
 
 
-\eqref{eq:label_name} 를 참고하세요.
+\eqref{123} 를 참고하세요.
 
 '''mermaid
-graph TD;
+  graph TD;
   A-->B;
   A-->C;
   B-->D;
