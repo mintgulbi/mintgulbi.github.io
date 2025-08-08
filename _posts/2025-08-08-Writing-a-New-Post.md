@@ -14,14 +14,12 @@ mermaid: true
 How to write a new post,
 
 $$\begin{equation}
-
-1+x = y
-
+1+x=y
 \label{eq:first}
 \end{equation}$$
 
 
-\eqref{eq:first} 를 참고하세요.
+위의 \eqref{eq:first} 를 참고하세요.
 
 ```mermaid
   graph TD;
