@@ -13,13 +13,23 @@ mermaid: true
 
 How to write a new post,
 
-$$\begin{equation}
+$$
+\begin{equation}
 1+x=y
-\label{eq:first}
-\end{equation}$$
+\label{eq:xy}
+\end{equation
+}$$
 
+위의 공식은 \eqref{xy} 입니다.
 
-위의 \eqref{first} 를 참고하세요.
+$$
+\begin{equation}
+1+y=x
+\label{eq:yx}
+\end{equation
+}$$
+
+위의 공식은 \eqref{yx} 입니다.
 
 ```mermaid
   graph TD;
