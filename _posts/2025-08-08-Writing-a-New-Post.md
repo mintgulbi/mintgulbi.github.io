@@ -15,11 +15,11 @@ How to write a new post,
 
 $$\begin{equation}
 1+x = y
-\label{123}
+\label{eq:first}
 \end{equation}$$
 
 
-\eqref{123} 를 참고하세요.
+\eqref{first} 를 참고하세요.
 
 ```mermaid
   graph TD;
